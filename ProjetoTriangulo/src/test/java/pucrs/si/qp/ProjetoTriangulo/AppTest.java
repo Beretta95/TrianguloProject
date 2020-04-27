@@ -9,7 +9,7 @@ import org.junit.Test;
  */
 public class AppTest {
 
-	//T1 Válido
+	//T1 Válido!
   @Test
   public void testEscaleno() throws InvalidAttributeValueException {
     int actual = App.identificaTriangulo(2, 3, 4);
